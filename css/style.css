@@ -73,6 +73,7 @@ footer {
     right: 20px;
     bottom: 20px;
     background-color: #FFA500;
+    z-index:100;
   }
   
   #page-top a {
